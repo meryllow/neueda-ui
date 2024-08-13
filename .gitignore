@@ -1,0 +1,5 @@
+.env
+.env.production
+.eslintrc.cjs
+node_modules/
+package-lock.json
